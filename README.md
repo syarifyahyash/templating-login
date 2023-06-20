@@ -4,7 +4,7 @@ Templating Login Web PHP
 Selamat datang!
 Files ini adalah source code PHP templating, dengan fitur Login.
 
-### How to use
+### How to use / Cara pakai
 1. Download Zip / Clone
 2. Extract Zip
 3. Import database di dalam folder /db
