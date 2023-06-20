@@ -12,4 +12,4 @@ Files ini adalah source code PHP templating, dengan fitur Login.
 5. Jalankan di URL " localhost/templating-login "
 6. Selesai
 
-#### Selamat Mencoba
+#### Selamat Mencoba !! 🏆
